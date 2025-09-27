@@ -1,7 +1,7 @@
 # Kaggle Learn – Cursos
 
-Repositorio con mis prácticas y soluciones de los cursos de [Kaggle Learn](https://www.kaggle.com/learn).  
-Las carpetas están ordenadas en el mismo itinerario sugerido de la plataforma.
+Repositorio con prácticas y soluciones de los cursos de [Kaggle Learn](https://www.kaggle.com/learn).  
+Orden sugerido de la plataforma.
 
 ---
 
